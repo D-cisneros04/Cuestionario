@@ -1,1 +1,16 @@
-uno
+Diego Cisneros-Carlo Brito 12°1
+1 ¿Que es el internet?
+    El internet es una red internacional de computadoras.
+2 Describe los medios físicos de propagación de onds por lo que se transmite información en internet.
+
+3 ¿Como se organiza el internet? habla de las direcciones IP y los DNS
+    El internet es una red, que ocupa DNS y direcciones ip para regirse, El sistema de nombres de dominio (DNS) es el directorio telefónico de Internet. Las personas acceden a la información en línea a través de nombres de dominio como nytimes.com o espn.com. Los navegadores web interactúan mediante direcciones de Protocolo de Internet (IP). El DNS traduce los nombres de dominio a direcciones IP para que los navegadores puedan cargar los recursos de Internet.
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML
+    El HTTP es el protocolo que se usa para comunicarse con el servidor web con el fin de acceder a un navegador web o página web. El HTML es el lenguaje utilizado para codificar la información en los recursos web.
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+    Una de la cosas que aprendi e que la mayoria de robos de informacion son debidos a errores personales y no de compañias de seguridad y de programacion. estas recomendaban para mayor seguridad contraseñas fuertes,revisar que el sitio web sea autentico, mantener actualizado el systema de segurida y no instalar cosas en las cuales no confias.
+8 ¿Cómo funciona la búsqueda de google?
